@@ -1,0 +1,7 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+ <item android:drawable="@drawable/scene_01_randomchat_touch" 
+ 		android:duration="1000"/>
+ <item android:drawable="@drawable/scene_01_randomchat_touch_none" 
+ 		android:duration="1000"/> 
+</animation-list>
+

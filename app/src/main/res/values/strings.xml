@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">LoveLove RandomChat</string>
+<color name="bgWhite">#FFFFFF</color>
+<color name="string">#000</color>
+<color name="bgBlack">#000</color>
+
+<string name="hint">Send Your Message</string>
+<color name="bgAlpha">#00FFFFFF</color>
+<color name="bgChat">#22FFFFFF</color>
+</resources>
